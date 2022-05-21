@@ -1,5 +1,6 @@
-# Minhas anotações
+# Minhas anotações ✍️
 
- - Lógica de progrmamção
+ - Lógica de programamção essencial
+ - Aprenda o que são estruturas de dados e algoritmos
  - Git/Github
 
